@@ -224,7 +224,7 @@ addButton("TSB(Speed Hub)","https://raw.githubusercontent.com/AhmadV99/Speed-Hub
 addButton("TBS(名前不明)","https://rawscripts.net/raw/The-Strongest-Battlegrounds-THE-STRONGEST-BATTLEGROUND-AUTO-TRASHCAN-PLAYERS-95243")
 addButton("Napoleon Hub","https://rawscripts.net/raw/The-Strongest-Battlegrounds-Napoleon-Hub-48277")
 addButton("sukuna Hub","https://rawscripts.net/raw/The-Strongest-Battlegrounds-Heian-sukuna-OP-sukuna-movetest-script-96334")
-
+addButton("ゴミ箱Hub","https://raw.githubusercontent.com/yes1nt/yes/refs/heads/main/Trashcan%20Man")
 -- Universal
 addSectionTitle("Universal")
 addButton("FE invisibilit (Ghost)","https://rawscripts.net/raw/Universal-Script-FE-Universal-invisibility-script-op-96366")
@@ -404,3 +404,4 @@ UserInputService.InputChanged:Connect(function(input)
         )
     end
 end)
+
